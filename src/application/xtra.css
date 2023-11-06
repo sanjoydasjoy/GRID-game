@@ -1,0 +1,24 @@
+.root{
+    -fx-focus-color: #FFCC00;
+    -fx-font-family: Chalkboard, Comic Sans MS;
+    -fx-background-image: url('rr.png');
+}
+
+.label{
+ -fx-font-size: 20;
+ -fx-font-family: "Lucida Console";
+ -fx-text-fill: "white";
+ -fx-alignment: center;
+}
+
+#titleLabel{
+ -fx-font-size: 70;
+}
+.howtopplay{
+ -fx-font-size: 40;
+}
+
+#backButton {
+  -fx-background-color: lightgreen;
+  -fx-text-fill: black;
+}

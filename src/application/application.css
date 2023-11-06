@@ -1,0 +1,38 @@
+.root {
+  -fx-focus-color: #FFCC00;
+  -fx-font-family: Chalkboard, Comic Sans MS;
+  -fx-background-image: url('rr.png');
+}
+
+.label {
+  -fx-font-size: 40;
+  -fx-font-family: "Lucida Console";
+  -fx-text-fill: white;
+  -fx-alignment: center;
+}
+
+#titleLabel {
+  -fx-font-size: 70;
+}
+
+#backkButton {
+  -fx-background-color: lightblue;
+  -fx-text-fill: black;
+}
+
+#exitButton {
+  -fx-background-color: red;
+  -fx-text-fill: white;
+}
+
+#myButton {
+  -fx-background-color: blue;
+  -fx-text-fill: white;
+}
+
+#startButton {
+  -fx-background-color: lightgreen;
+}
+body {
+  /*background: url('peo.mp3') repeat;*/
+}

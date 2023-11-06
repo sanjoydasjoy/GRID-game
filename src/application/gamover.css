@@ -1,0 +1,29 @@
+.root{
+    -fx-focus-color: #FFCC00;
+    -fx-font-family: Chalkboard, Comic Sans MS;
+    -fx-background-image: url('gamo.png');
+}
+
+.label{
+ -fx-font-size: 20;
+ -fx-font-family: "Lucida Console";
+ -fx-text-fill: "white";
+ -fx-alignment: center;
+}
+
+#scoreLabel {
+    -fx-font-size: 40px;
+    -fx-text-fill: black; 
+}
+
+
+#backButton {
+  -fx-font-size: 24;
+  -fx-font-family: "Georgia";
+  -fx-background-color: green;
+  -fx-text-fill: white;
+}
+#tButton {
+  -fx-background-color: red;
+  -fx-text-fill: white;
+}
